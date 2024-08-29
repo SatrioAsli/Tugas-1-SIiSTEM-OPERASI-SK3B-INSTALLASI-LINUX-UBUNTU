@@ -18,3 +18,17 @@ Nim    : 09011282328092
 4. dibagian ini kita next aja
    
    
+![screeshoot](https://github.com/user-attachments/assets/3c9bc4fe-14c2-4b20-8bad-0988fc101b7f)
+![screenshot2](https://github.com/user-attachments/assets/43bff0c0-7000-455a-8951-2ec79ad3229a)
+![screenshot3](https://github.com/user-attachments/assets/36ee6daa-3646-48c7-9953-9e534a66d964)
+![screenshot4](https://github.com/user-attachments/assets/6cce3f96-60b1-4a5c-8972-fb5802fe6e32)
+![screenshot5](https://github.com/user-attachments/assets/f577ae5a-254f-42d2-be68-de3da25c36e1)
+![screenshot 6](https://github.com/user-attachments/assets/698b04dd-b1bc-4efd-a7c4-02214c08aa16)
+![screenshot 7](https://github.com/user-attachments/assets/65ffe9df-22c8-4e06-8e35-026bd91f8f44)
+![screenshot 8](https://github.com/user-attachments/assets/bc3a8633-9f19-4789-9801-1d8db64d27be)
+![screenshot 9](https://github.com/user-attachments/assets/2e0ddc8a-64ee-4190-9005-58a0c553945a)
+![screenshot 10](https://github.com/user-attachments/assets/a2bbf8ff-12c9-4765-bffa-c53cb01697cc)
+![screenshot 11](https://github.com/user-attachments/assets/d59c5a74-3a7a-4f7a-9b7d-5178e2c3c275)
+![screenshot 12](https://github.com/user-attachments/assets/83c8e369-f546-4e5a-ab03-19884dd4d4bd)
+![screenshot 13](https://github.com/user-attachments/assets/919b3750-f752-44a5-bebb-0a3200bda9dc)
+![screenshot 14](https://github.com/user-attachments/assets/78ee2c66-cd6c-4fa2-a352-44e7beb7a410)
