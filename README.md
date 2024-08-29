@@ -10,10 +10,11 @@ Nim    : 09011282328092
    Link software VirtualBox : https://www.virtualbox.org/wiki/Downloads
    
 2. Langkah selanjutnya buka virtualbox, lalu klik new
+![Screenshot 2024-08-29 202226](https://github.com/user-attachments/assets/05c7e0d6-c3be-4705-9a4d-48bafd070ea9)
 
-
-3. 
+3. Masukla ke halaman berikut ini, lalu isi nama nya, pilih lokasih folder untuk menyimpan linuxnya, untuk iso imagenya pilih file iso ubuntu yang sudah didownload tadi. lalu tekan next
    ![WhatsApp Image 2024-08-29 at 19 00 37](https://github.com/user-attachments/assets/fbb81344-8aa3-4f88-a417-abbcca5f30ae)
 
-3. 
+4. dibagian ini kita next aja
+   
    
