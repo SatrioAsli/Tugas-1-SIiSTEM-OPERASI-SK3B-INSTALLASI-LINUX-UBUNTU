@@ -28,20 +28,43 @@ Nim    : 09011282328092
    
 6. pada bagian ini virtual storage atau penyimpanan virtual saya menggunakan 25gb, semakin besar storage yang diatur maka storage yang tersedia itu lebih besar lalu klik next dan finish kan maka virttual box akan berjalan/running. jika virtual boxnya kembali ke halaman semula dengan tambahn file yang kita buat tadi maka klik lalu klik start untuk merunning programnya.
 ![screenshot2](https://github.com/user-attachments/assets/43bff0c0-7000-455a-8951-2ec79ad3229a)
+![Screenshot 2024-08-29 202906](https://github.com/user-attachments/assets/f307c040-067c-406c-8705-31c4badef66f)
+
+
+7. masuklah ketampilan berikut, pilih bahasa yang diinginkan 
+![screenshot 10](https://github.com/user-attachments/assets/a2bbf8ff-12c9-4765-bffa-c53cb01697cc)
+
+8. lalu next aja sampai di bagian ini bisa pilih no connection atau wired connection jika terhubung dengan koneksi internet. kemudian next lagi
+![screenshot 11](https://github.com/user-attachments/assets/d59c5a74-3a7a-4f7a-9b7d-5178e2c3c275)
 
 
 
+10. pilih install ubuntu kemudian next lagi.
+![screenshot 12](https://github.com/user-attachments/assets/83c8e369-f546-4e5a-ab03-19884dd4d4bd)
+
+
+
+11. sampai di bagian ini centang install third party, atau bisa juga centang download and install support jika perangkkat terkoneksi internet.
+![screenshot 13](https://github.com/user-attachments/assets/919b3750-f752-44a5-bebb-0a3200bda9dc)
+
+12. dibagian ini instalasi partisi ini, saya memilih next karena memakai virtualbox yang sudah ada 1 storage virtual yang kosong.
+![screenshot 14](https://github.com/user-attachments/assets/78ee2c66-cd6c-4fa2-a352-44e7beb7a410)
+
+
+13. kemudian membuat username linux dan passwordnya untuk login
 
    ![screeshoot](https://github.com/user-attachments/assets/3c9bc4fe-14c2-4b20-8bad-0988fc101b7f)
 
 
-
-
-![screenshot 7](https://github.com/user-attachments/assets/65ffe9df-22c8-4e06-8e35-026bd91f8f44)
+14. lalu pilih titik lokasi kalian, kalo saya pilih di jakarta saja, lalu next
 ![screenshot 8](https://github.com/user-attachments/assets/bc3a8633-9f19-4789-9801-1d8db64d27be)
+
+
+15. masuklah ke proses installasi yang membutuhkan waktu yang cukup lama, setelah selasai kita disuruh login dengan memasukan usename dan password tadi lalu muncul  pilihan mau restart atau continue dan ini terserah mau pilih yang mana
 ![screenshot 9](https://github.com/user-attachments/assets/2e0ddc8a-64ee-4190-9005-58a0c553945a)
-![screenshot 10](https://github.com/user-attachments/assets/a2bbf8ff-12c9-4765-bffa-c53cb01697cc)
-![screenshot 11](https://github.com/user-attachments/assets/d59c5a74-3a7a-4f7a-9b7d-5178e2c3c275)
-![screenshot 12](https://github.com/user-attachments/assets/83c8e369-f546-4e5a-ab03-19884dd4d4bd)
-![screenshot 13](https://github.com/user-attachments/assets/919b3750-f752-44a5-bebb-0a3200bda9dc)
-![screenshot 14](https://github.com/user-attachments/assets/78ee2c66-cd6c-4fa2-a352-44e7beb7a410)
+
+
+
+
+
+
