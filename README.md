@@ -10,4 +10,10 @@ Nim    : 09011282328092
    Link software VirtualBox : https://www.virtualbox.org/wiki/Downloads
    
 2. Langkah selanjutnya buka virtualbox, lalu klik new
+
+
+3. 
+   ![WhatsApp Image 2024-08-29 at 19 00 37](https://github.com/user-attachments/assets/fbb81344-8aa3-4f88-a417-abbcca5f30ae)
+
+3. 
    
