@@ -66,8 +66,23 @@ Nim    : 09011282328092
 ![15](https://github.com/user-attachments/assets/880d8684-79c7-4e64-9fc7-af967ccf61be)
 
 
+2. Analisalah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi Mount Point?
+   
+pada proses instalasi linux, awalnya saya menggunakan auto partition tetapi pada percobaan kedua saya mencoba manual partition untuk mengetahui apa saja perbedaan nya dan untuk menjawab pertanyaan no 2 ini.
 
+Saat instalasi Ubuntu, memilih "/" sebagai opsi mount point berarti kita mengatur partisi tersebut untuk menjadi root directory dari sistem. Direktori "/" adalah tempat utama di mana semua file sistem, aplikasi, dan data pengguna disimpan. Dengan memilih "/" untuk partisi ini, kita memastikan bahwa seluruh struktur file sistem Linux akan berada di partisi tersebut
 
+3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32, btrfs
+   
+Ext4 adalah sistem file yang sering digunakan di Linux Ext4 menggunakan jurnal yang lebih efisien untuk melindungi data dan mengurangi fragmentasi file sehingga memberikan kecepatan dan stabilitas yang lebih baik
 
+Ext3 adalah sistem file Linux yang menggunakan jurnal untuk melindungi data dan mempermudah pemulihan dari kegagalan Ext3 memiliki batasan ukuran file dan kinerja dibandingkan dengan Ext4 yang menawarkan peningkatan dalam kapasitas dan kecepatan
 
+Swap adalah ruang di hard drive yang digunakan sebagai tambahan memori ketika RAM penuh memungkinkan sistem untuk menyimpan data yang tidak aktif di RAM ke disk sehingga memori fisik dapat digunakan untuk proses yang lebih penting swap membantu mencegah kehabisan memori meski akses ke swap lebih lambat dibandingkan dengan RAM
+
+NTFS adalah sistem file yang dikembangkan oleh Microsoft dan digunakan terutama di Windows NTFS mendukung fitur-fitur canggih seperti izin file, enkripsi, dan kompresi data ini juga dapat menangani file dan partisi yang sangat besar dengan efisien NTFS sering digunakan untuk hard drive dan SSD di komputer Windows tetapi Linux juga dapat membaca dan menulis ke partisi NTFS dengan alat tambahan
+
+FAT32 adalah sistem file yang kompatibel dengan banyak sistem operasi dan sering digunakan pada drive USB dan kartu memori dan memiliki batas ukuran file maksimal 4gb dan partisi maksimal 8TB FAT32 menawarkan kompatibilitas luas tanpa fitur canggih seperti enkripsi
+
+Btrfs adalah sistem file modern di Linux yang menawarkan fitur seperti snapshot, kompresi, dan cek integritas data Btrfs dirancang untuk menggantikan Ext4 dengan keunggulan dalam manajemen ruang, pemulihan data, dan skalabilitas, mendukung partisi dan file besar dengan efisiensi tinggi
 
