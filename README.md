@@ -66,6 +66,8 @@ Nim    : 09011282328092
 ![15](https://github.com/user-attachments/assets/880d8684-79c7-4e64-9fc7-af967ccf61be)
 
 
+
+
 2. Analisalah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi Mount Point?
    
 pada proses instalasi linux, awalnya saya menggunakan auto partition tetapi pada percobaan kedua saya mencoba manual partition untuk mengetahui apa saja perbedaan nya dan untuk menjawab pertanyaan no 2 ini.
