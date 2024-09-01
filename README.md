@@ -68,8 +68,8 @@ Nim    : 09011282328092
 
 
 
-2. Analisalah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi Mount Point?
-   
+
+Analisalah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi Mount Point?
 pada proses instalasi linux, awalnya saya menggunakan auto partition tetapi pada percobaan kedua saya mencoba manual partition untuk mengetahui apa saja perbedaan nya dan untuk menjawab pertanyaan no 2 ini.
 
 Saat instalasi Ubuntu, memilih "/" sebagai opsi mount point berarti kita mengatur partisi tersebut untuk menjadi root directory dari sistem. Direktori "/" adalah tempat utama di mana semua file sistem, aplikasi, dan data pengguna disimpan. Dengan memilih "/" untuk partisi ini, kita memastikan bahwa seluruh struktur file sistem Linux akan berada di partisi tersebut
