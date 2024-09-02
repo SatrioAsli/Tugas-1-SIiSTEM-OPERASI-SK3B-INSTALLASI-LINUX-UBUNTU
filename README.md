@@ -33,10 +33,11 @@ Nim    : 09011282328092
 
 
 8. masuklah ketampilan berikut, pilih bahasa yang diinginkan 
-![screenshot 10](https://github.com/user-attachments/assets/a2bbf8ff-12c9-4765-bffa-c53cb01697cc)
+
+![screenshot 10](https://github.com/user-attachments/assets/56e171df-89f9-4410-ae94-896390c0ab7c)
 
 9. lalu next aja sampai di bagian ini bisa pilih no connection atau wired connection jika terhubung dengan koneksi internet. kemudian next lagi
-![screenshot 11](https://github.com/user-attachments/assets/d59c5a74-3a7a-4f7a-9b7d-5178e2c3c275)
+![screenshot 11](https://github.com/user-attachments/assets/e10b1c72-e79a-4411-b2a9-a2bff86076d8)
 
 
 
